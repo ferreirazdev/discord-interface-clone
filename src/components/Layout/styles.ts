@@ -11,5 +11,5 @@ export const Grid = styled.div`
     'SL CL CD UL'
     'SL UI CD UL';
 
-  height: 100vh
+  height: 100vh;
 `;
