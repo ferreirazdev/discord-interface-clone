@@ -1,6 +1,6 @@
 import styled from "styled-components";
 
-import { ExpandMore } from 'styled-icons/materials';
+import { ExpandMore } from 'styled-icons/material';
 
 export const Container = styled.div`
   display: flex;
@@ -22,3 +22,5 @@ export const Title = styled.div`
 `;
 
 export const ExpandIcon = styled.div``;
+
+// yarn add @styled-icons/material
