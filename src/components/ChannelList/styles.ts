@@ -23,7 +23,7 @@ export const Category = styled.div`
     text-transform: uppercase;
     font-size: 12px;
     font-weight: 500;
-    color: var(--grey);
+    color: var(--gray);
   }
 `;
 
